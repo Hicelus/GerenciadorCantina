@@ -1,0 +1,12 @@
+Pedido cantina
+19/01/2017 03:31:01
+
+ ID: 1 - X-Burguer LNC
+ Preco: 5.0 x 2 = R$ 10.0
+
+ ID: 2 - Cachorro-Quente
+ Preco: 3.0 x 1 = R$ 3.0
+
+TOTAL: R$ 13.0
+
+TOTAL: R$ 13.0
